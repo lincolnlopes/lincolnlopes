@@ -1,4 +1,4 @@
-## Hi there 👋 I'm [Lincoln Lopes][website] but you can call me Harry 😀
+## Hi there 👋 I'm [Lincoln Lopes][website] 😀
 ![](https://visitor-badge.laobi.icu/badge?page_id=lincolnlopes.lincolnlopes) [![Github](https://img.shields.io/github/followers/lincolnlopes?label=Followers&logo=Github)](https://github.com/lincolnlopes)
 
 
