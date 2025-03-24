@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lincolnlopes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lincolnlopes" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lincoln-lopes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lincolnlopes" height="30" width="40" /></a>
 <a href="https://fb.com/lincolngyn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="lincolngyn" height="30" width="40" /></a>
 <a href="https://instagram.com/lincolngyn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lincolngyn" height="30" width="40" /></a>
 <a href="https://discord.gg/lincolnlopes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="lincolnlopes" height="30" width="40" /></a>
